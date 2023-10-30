@@ -2,6 +2,7 @@
 Infrared collision sensor and collision sensor raspberry pi
 
 The two key studio sensors this repository is about are the infrared collision sensor and the collision sensor.
+
 ![image](https://github.com/TylerDStanford/CollisionSensorsRaspBerryPi/assets/141964312/745b7d0d-9fb0-4b09-9f54-cfd6afecaa21)
 - This is the regular collision sensor
 

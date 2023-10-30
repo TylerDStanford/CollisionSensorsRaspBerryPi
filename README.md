@@ -18,3 +18,5 @@ The two sensors have the same output (on or off) which makes it easy to take and
 Circuits:
   
 
+![IMG_3112](https://github.com/TylerDStanford/CollisionSensorsRaspBerryPi/assets/141964312/4f7a6219-f056-4c32-ad78-17b6a6e4dd55)
+![IMG_3113](https://github.com/TylerDStanford/CollisionSensorsRaspBerryPi/assets/141964312/8d90932b-9a53-4111-a68b-3796e455578c)

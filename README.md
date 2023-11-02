@@ -13,7 +13,7 @@ The regular collision sensor is more analog in the sense that it detects collisi
 
 The infrared collision sensor is a sensor that uses Infrared light rays to detect if obstacles are in close proximity to the sensor. The range of the sensor is 2-40 cm and can be changed by turning the blue/white mechanism counterclockwise or clockwise on the sensor. This can be helpful when it comes to moving robots as it can be used to anticipate a collision and be used to decelerate before the crash happens. You could also use this as some sort of motion detector although it might be less efficient compared to other motion detector sensors.
 
-The two sensors have the same output (on or off) which makes it easy to take and use the input in programs. One example is to see whether the sensor is off or on and if it's on apply a beeping sound via a buzzer. Since they have the same output they can both be used by the code in the python file above.
+The two sensors have the same output (on or off) which makes it easy to take and use the sensors in programs. One example is to see whether the sensor is off or on and if it's on, apply a beeping sound via a buzzer. Since they have the same output they can both be used by the code in the python file above.
 
 Circuits:
   
